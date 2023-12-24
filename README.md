@@ -3,6 +3,8 @@
 > - [西瓜链接](https://www.ixigua.com/home/1689304960078528)
 > - 联系方式: huangshaoqi8888@gmail.com
 
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Github-Huangshaoqi&hide_title=true&hide_border=true&layout=compact&theme=vue&locale=cn)
+
 ## 其他
 > - 日常: 逛github
 > - 对，就是这么短。简介看完了
