@@ -8,6 +8,7 @@
 > - [PythonOS 开发人员文档](https://support.xyehr.cn)
 
 联系方式: 
+> www@xyehr.cn
 > huangshaoqi8888@gmail.com
 > huangtongxue@proton.me
 
