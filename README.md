@@ -3,9 +3,7 @@
 链接及联系方式
 
 > - [西瓜链接](https://www.ixigua.com/home/1689304960078528)
-> - [PythonOS X](https://x.com/@tomjohn1464040)
-> - [PythonOS Telegram](https://t.me/PythonOS)
-> - [PythonOS 开发人员文档](https://support.xyehr.cn)
+> - [PythonOS 相关链接](https://card.xyehr.cn)
 
 联系方式: 
 > www@xyehr.cn
