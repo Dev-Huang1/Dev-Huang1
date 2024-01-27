@@ -1,4 +1,4 @@
-## 我是Github-Huangshaoqi,也是西瓜[某同学](https://www.ixigua.com/home/1689304960078528)
+## 我是黄同学，一名编程爱好者
 
 链接及联系方式
 
