@@ -13,4 +13,4 @@ Hey!!! I'm a junior developer, also a student.😃 from China🇨🇳. My name i
 - 😃My social account link: [Student.Huang](bento.me/student-huang)
 
 ## 🏷Most used languages
-![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Huang1&hide_title=true&hide_border=true&layout=compact&theme=tokyonight)
+![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Huang1&hide_title=true&hide_border=true&layout=compact&theme=dracula)
