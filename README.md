@@ -16,6 +16,6 @@ Hey!!! I'm a junior developer, also a student.😃 from China🇨🇳. My name i
 ![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Huang1&hide_title=true&hide_border=true&layout=compact&theme=dracula)
 
 ## 🔖DevCard
-<a href="https://app.daily.dev/student_huang"><img src="https://api.daily.dev/devcards/v2/oknDsTlL9lpbykfWnxxwQ.png?r=4py&type=default" width="356" alt="Student.Huang's Dev Card"/></a>
+<a href="https://app.daily.dev/student_huang"><img src="https://api.daily.dev/devcards/v2/oknDsTlL9lpbykfWnxxwQ.png?type=wide&r=xmb" width="452" height="auto" alt="Student.Huang's Dev Card"/></a>
 
 <!--Thanks for watching😄-->
