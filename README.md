@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png">
+</div>
+
 ## 👋About me
 
 Hey!!! I'm a junior developer, also a student.😃 from China🇨🇳. My name is Huang.
