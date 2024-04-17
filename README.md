@@ -11,7 +11,7 @@ Hey!!! I'm a junior developer, also a student.😃 from China🇨🇳. My name i
 - ⚡ Hobbies: listening to music🎶, running🏃🏻 and coding😉.
 
 ## 🔧Skills - Language and tools
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,windows,twitter,notion,photoshop,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,vercel,windows,twitter,notion,photoshop,markdown)](https://skillicons.dev)
 
 ## 📌Let's connect
 - 😃My social account link: [Student.Huang](bento.me/student-huang)
