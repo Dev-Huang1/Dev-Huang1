@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Student.Huang_20240417_194239_0000.png" width="65">
+  <img src="Student.Huang_20240417_194239_0000.png" width="650">
 </div>
 
 ## 👋About me
