@@ -16,12 +16,22 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 ### 📌Let's connect
 
 <p align="left">
-<a href="https://x.com/Student__Huang" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="30" width="40" alt="Student__Huang"></a>
 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="30" width="40">
+<a href="https://x.com/Student__Huang" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="30" width="40" alt="Student__Huang">
+</a>
+
+<a href="https://instagram.com/Student.Huang" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="30" width="40" alt="Student.Huang">
+</a>
+
+<a href="https://facebook.com/Student.Huang0" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="30" width="40" alt="Student.Huang0">
+</a>
+
 </p>
 
-- 😃My social account link: [**Student.Huang**](bento.me/student-huang)
+- 😃More social account link: [**Student.Huang**](bento.me/student-huang)
 
 ### 🏷Most used languages
 ![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Huang1&hide_title=true&hide_border=true&layout=compact&theme=dracula)
