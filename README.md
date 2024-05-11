@@ -22,9 +22,8 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 <a href="https://www.linkedin.com/in/student-huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" width="40" alt="student-huang"></a>
 </p>
 
-😃More social account link: 
-
-[**Click here!**](bento.me/student-huang)
+> 😃More social account link: 
+> [**Click here!**](bento.me/student-huang)
 
 ### 🏷Most used languages
 ![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Huang1&hide_title=true&hide_border=true&layout=compact&theme=dracula)
