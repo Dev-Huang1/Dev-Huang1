@@ -14,7 +14,9 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,vercel,windows,twitter,notion,markdown)](https://skillicons.dev)
 
 ### 📌Let's connect
-<img src="twitter.svg">
+<img align="center" src="">
+
+
 
 - 😃My social account link: [**Student.Huang**](bento.me/student-huang)
 
