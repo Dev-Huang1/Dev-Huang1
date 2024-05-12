@@ -33,7 +33,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 > [**Click here!**](bento.me/student-huang)
 
 ### 🏷Most used languages
-![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Huang1&hide_title=true&hide_border=true&layout=compact&theme=dracula)
+![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Huang1&hide_title=true&hide_border=true&layout=compact&theme=default)
 
 ### 🔖DevCard
 <a href="https://app.daily.dev/student_huang"><img src="https://api.daily.dev/devcards/v2/oknDsTlL9lpbykfWnxxwQ.png?type=default&r=sgd" width="316" alt="Student.Huang's Dev Card"/></a>
