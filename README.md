@@ -24,7 +24,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 <p align="left">
 <a href="https://t.me/@Student_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Student_Huang"></a>
-  <a href="https://t.me/@Student_Huang" target="blank"><img src="https://www.svgrepo.com/download/353655/discord-icon.svg" height="30" width="40" alt="student.huang"></a>
+  <a href="https://discord.com/invite/xCeAQ3RS" target="blank"><img src="https://www.svgrepo.com/download/353655/discord-icon.svg" height="30" width="40" alt="student.huang"></a>
   <a href="https://m.me/Student.Huang0" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Facebook_Messenger_logo_2020.svg" height="30" width="40" alt="Student.Huang0"></a>
   <a href="https://www.facebook.com/share/p/WVtsHJHs6RFR3Ry2/?mibextid=qi2Omg" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40" alt="WhatsApp"></a>
 </p>
