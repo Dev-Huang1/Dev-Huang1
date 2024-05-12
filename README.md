@@ -19,7 +19,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 <a href="https://x.com/Student__Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="30" width="40" alt="Student__Huang"></a>
 <a href="https://instagram.com/Student.Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="30" width="40" alt="Student.Huang"></a>
 <a href="https://facebook.com/Student.Huang0" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="30" width="40" alt="Student.Huang0"></a>
-<a href="https://www.linkedin.com/in/student-huang" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"height="30" width="40" alt="student-huang"></a>
+<a href="https://www.linkedin.com/in/student-huang" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg"height="30" width="40" alt="student-huang"></a>
 </p>
 
 <p align="left">
