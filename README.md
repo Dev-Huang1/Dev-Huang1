@@ -13,7 +13,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 ### 🔧Skills - Language and tools
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,vercel,windows,twitter,notion,markdown)](https://skillicons.dev)
 
-### 📌Let's connect
+### 📌Connect with me
 
 <p align="left">
 <a href="https://x.com/Student__Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="30" width="40" alt="Student__Huang"></a>
