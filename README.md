@@ -21,7 +21,10 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 <a href="https://facebook.com/Student.Huang0" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="30" width="40" alt="Student.Huang0"></a>
 <a href="https://www.linkedin.com/in/student-huang" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"height="30" width="40" alt="student-huang"></a>
 </p>
+<a href="https://t.me/@Student_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Student_Huang"></a>
+<p align="left">
 
+</p>
 > 😃More social account link: 
 > [**Click here!**](bento.me/student-huang)
 
