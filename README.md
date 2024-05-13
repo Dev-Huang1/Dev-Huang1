@@ -10,7 +10,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - 💬 You can contact me via [**X**](x.com/@Student__Huang) platform or [**Telegram**](t.me/@Student.Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
 - ⚡ **Hobbies**: *listening to music🎶, running*🏃🏻 *and coding*😉.
 
-> **Mood:** *feeling happy*
+> **Mood:** *feeling happy* 😄
 
 ### 🔧Skills - Language and tools
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,vercel,windows,twitter,notion,markdown)](https://skillicons.dev)
