@@ -28,7 +28,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 <a href="https://t.me/@Student_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Student_Huang"></a>
   <a href="https://discord.com/invite/xCeAQ3RS" target="blank"><img src="https://www.svgrepo.com/download/353655/discord-icon.svg" height="30" width="40" alt="student.huang"></a>
   <a href="https://m.me/Student.Huang0" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Facebook_Messenger_logo_2020.svg" height="30" width="40" alt="Student.Huang0"></a>
-  <a href="wa.me/8618778418865" target="blank"><img src="https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg" height="30" width="40" alt="WhatsApp"></a>
+  <a href="https://wa.me/8618778418865" target="blank"><img src="https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg" height="30" width="40" alt="WhatsApp"></a>
 </p>
 
 > 😃More social account link: 
