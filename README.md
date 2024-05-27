@@ -8,7 +8,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - 🌱 I am **currently learning Python**.
 - 🤗 **Pronouns**: *He/Him*.
 - 💬 You can contact me via [**X**](x.com/@Student__Huang) platform or [**Telegram**](t.me/@Student.Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
-- ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, Play games🎮 *and coding*😉.
+- ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
 
 > **Mood:** *feeling happy* 😄
 > **Sleeping**
