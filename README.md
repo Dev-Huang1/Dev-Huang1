@@ -11,7 +11,6 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
 
 > **Mood:** *feeling happy* 😄
-> **Sleeping** 😴
 
 ### 🔧Skills - Language and tools
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,vercel,windows,twitter,notion,markdown)](https://skillicons.dev)
