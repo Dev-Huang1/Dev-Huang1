@@ -20,8 +20,6 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 <p align="left">
 <a href="https://x.com/Dev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="30" width="40" alt="Dev_Huang1"></a>
 <a href="https://instagram.com/dev.huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="30" width="40" alt="dev.huang"></a>
-<a href="https://www.linkedin.com/in/student-huang" target="blank"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"height="30" width="40" alt="student-huang"></a>
-</p>
 
 <p align="left">
 <a href="https://t.me/@Student_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Student_Huang"></a>
