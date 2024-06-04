@@ -32,10 +32,10 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 </p>
 
 > 😃More social account link: 
-> [**Click here!**](bento.me/student-huang)
+> [**Click here!**](bento.me/dev-huang)
 
 ### 🏷Most used languages
-![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Huang1&hide_title=true&hide_border=true&layout=compact&theme=auto)
+![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=-Huang1&hide_title=true&hide_border=true&layout=compact&theme=auto)
 
 ### 🔖DevCard
 <a href="https://app.daily.dev/student_huang"><img src="https://api.daily.dev/devcards/v2/oknDsTlL9lpbykfWnxxwQ.png?type=default&r=sgd" width="316" alt="Student.Huang's Dev Card"/></a>
