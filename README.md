@@ -32,6 +32,6 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 ![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Huang1&hide_title=true&hide_border=true&layout=compact&theme=auto)
 
 
-<a href="https://app.daily.dev/student_huang"><img src="https://api.daily.dev/devcards/v2/oknDsTlL9lpbykfWnxxwQ.png?type=default&r=sgd" width="316" alt="Student.Huang's Dev Card"/></a>
+img src="https://api.daily.dev/devcards/v2/oknDsTlL9lpbykfWnxxwQ.png?type=default&r=sgd" width="316" alt="Student.Huang's Dev Card"/></a>
 
 <!--Thanks for watching😄-->
