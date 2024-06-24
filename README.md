@@ -30,7 +30,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 ### 🏷Most used languages
 ![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Huang1&hide_title=true&hide_border=true&layout=compact&theme=auto)
 
-### Personal business card
+### 🔖Personal business card
 
 ![card](https://cdn.xyehr.cn/images/Dev_Huang_Card.png)
 
