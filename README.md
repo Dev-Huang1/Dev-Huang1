@@ -32,6 +32,6 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 ### Personal business card
 
-![card](https://cdn.xyehr.cn/images/Dev_Huang_20240623_001333_0000.png)
+![card](https://cdn.xyehr.cn/images/Dev_Huang_Card.png)
 
 <!--Thanks for watching😄-->
