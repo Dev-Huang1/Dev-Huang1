@@ -11,8 +11,6 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - 💬 You can contact me via [**X**](https://x.com/Dev_Huang1) platform or [**Telegram**](https://t.me/@Dev_Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
 - ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
 
-> **Mood:**
-
 ### 🔧Skills - Language and tools
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,vercel,windows,twitter,notion,markdown)](https://skillicons.dev)
 
