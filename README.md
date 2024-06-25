@@ -32,6 +32,4 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 ### 🔖Personal business card
 
-![card]()
-
 <!--Thanks for watching😄-->
