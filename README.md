@@ -31,10 +31,10 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 > 😃More social account link: 
 > [**Click here!**](https://bento.me/dev-huang)
 
-### 🏷Dev Card
+### 🏷Information Card
 
 ![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Huang1&hide_title=false&hide_border=true&layout=compact&theme=auto)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dev-Huang1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Huang1&show_icons=true&hide_title=false&hide_border=true&theme=auto)
 
 <!--Thanks for watching😄-->
