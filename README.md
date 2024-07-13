@@ -1,6 +1,5 @@
-<img src=”https://cdn.xyehr.cn/images/Dev_Huang_Card.png” height="100px">
 
-![card]()
+![card](https://cdn.xyehr.cn/images/Dev_Huang_Card.png)
 
 <h2 align="center">😃Dev.Huang</h2>
 
