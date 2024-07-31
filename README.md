@@ -11,6 +11,11 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - 💬 You can contact me via [**X**](https://x.com/Dev_Huang1) platform or [**Telegram**](https://t.me/@Dev_Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
 - ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
 
+<p align="left">
+<a href='https://ko-fi.com/dev_huang' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2'></a>
+<a href="https://www.buymeacoffee.com/dev.huang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px"></a>
+</p>
+
 ### 🔧Skills - Language and tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,instagram)](https://skillicons.dev)
