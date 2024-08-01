@@ -12,8 +12,12 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
 
 <p align="left">
-<a href='https://ko-fi.com/dev_huang' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2'></a>
-<a href="https://www.buymeacoffee.com/dev.huang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px"></a>
+<a href="https://www.buymeacoffee.com/dev.huang" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-sponsor-yellow?logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee"></a>
+<a href="https://ko-fi.com/dev_huang" target="_blank">
+<img src="https://img.shields.io/badge/Ko--fi-sponsor-blue?logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+<a href="https://www.patreon.com/你的用户名" target="_blank">
+<img src="https://img.shields.io/badge/Patreon-sponsor-red?logo=patreon&logoColor=white" alt="Patreon"></a>
 </p>
 
 ### 🔧Skills - Language and tools
