@@ -17,16 +17,13 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
 <a href="https://ko-fi.com/dev_huang" target="_blank" style="background-color: #F16061; padding: 10px 20px; display: inline-block; border-radius: 5px; text-decoration: none;">
-  <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" style="vertical-align: middle;">
-</a>
+  <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" style="vertical-align: middle;"></a>
 
 <a href="https://www.patreon.com/Dev-Huang" target="_blank" style="background-color: #FF424D; padding: 10px 20px; display: inline-block; border-radius: 5px; text-decoration: none;">
-  <img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" style="vertical-align: middle;">
-</a>
+  <img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" style="vertical-align: middle;"></a>
 
 <a href="https://opencollective.com/dev-huang" target="_blank" style="background-color: #3389FF; padding: 10px 20px; display: inline-block; border-radius: 5px; text-decoration: none;">
-  <img src="https://img.shields.io/badge/Open%20Collective-3389FF?style=for-the-badge&logo=open-collective&logoColor=white" alt="Open Collective" style="vertical-align: middle;">
-</a>
+  <img src="https://img.shields.io/badge/Open%20Collective-3389FF?style=for-the-badge&logo=open-collective&logoColor=white" alt="Open Collective" style="vertical-align: middle;"></a>
 
 </p>
 
