@@ -46,7 +46,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 <p align="left">
   <a href="mailto:devhuang000@outlook.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="30" width="40" alt="Outlook"></a>
 
-  
+  <a href="mailto:huangtongxue@proton.me" target="blank"><img src="https://cdn.xyehr.cn/images/svg/Proton-Mail.svg" height="30" width="40" alt="Proton Mail"></a>
 </p>
 
 > 😃More social account link: 
