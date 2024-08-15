@@ -1,7 +1,7 @@
 
 ![card](https://cdn.xyehr.cn/images/Dev_Huang_Card.png)
 
-<h2 align="center">Hi! I'm Dev.Huang😃</h2>
+<h2 align="center">Hi! I'm Huang😃</h2>
 
 ### 👋About me
 
