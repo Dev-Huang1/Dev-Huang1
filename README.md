@@ -74,7 +74,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
      "properties": {
        "ID": 0,
        "name": "Location",
-       "zoom": 12
+       "zoom": 8
      },
      "geometry": {
        "type": "Point",
