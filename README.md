@@ -3,7 +3,7 @@
 ### 👋About me
 
 Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳. My name is **Huang**.
-- 🌱 I am **currently learning Python**.
+- 🌱 I am **currently learning NextJS**.
 - 🤗 **Pronouns**: *He/Him*.
 - 💬 You can contact me via [**X**](https://x.com/Dev_Huang1) platform or [**Telegram**](https://t.me/@Dev_Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
 - 📧 **Email**: [**Outlook**](mailto:devhuang000@outlook.com), [**Proton Mail**](mailto:huangtongxue@proton.me), [**Gmail**](mailto:huangshaoqi8888@gmail.com), [**Yandex Mail**](mailto:dev.huang@yandex.com).
