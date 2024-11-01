@@ -61,6 +61,8 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 ### 📍Location 
 
+I moved to Point Nemo
+
 ```geojson
 {
  "type": "FeatureCollection",
