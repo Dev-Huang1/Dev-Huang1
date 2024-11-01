@@ -70,16 +70,16 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
      "id": 1,
      "properties": {
        "ID": 0,
-       "name": "Location",
+       "name": "Point Nemo",
        "zoom": 8
      },
      "geometry": {
        "type": "Point",
-       "coordinates": [111.522083, 24.416417]
+       "coordinates": [-123.39333, -48.876667]
      }
    }
  ],
- "bbox": [111.0, 24.0, 112.0, 25.0]
+ "bbox": [-124.0, -49.0, -122.0, -48.0]
 }
 ```
 
