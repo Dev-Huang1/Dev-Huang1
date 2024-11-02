@@ -27,7 +27,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 ### 🔧Skills - Language and tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,pycharm,github,linkedin,discord,instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,python,html,css,vscode,pycharm,github,discord,instagram)](https://skillicons.dev)
 
 [![My Skills2](https://skillicons.dev/icons?i=vercel,windows,twitter,notion,markdown,cloudflare,gmail,azure,googlecloud)](https://skillicons.dev)
 
