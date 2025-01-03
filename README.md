@@ -1,12 +1,12 @@
-<h2 align="center">Hi! I'm Huang😃</h2>
+<h2 align="center">Hi! I'm Evan😃</h2>
 
 ### 👋About me
 
-Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳. My name is **Huang**.
+Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳. My name is **Evan**.
 - 🌱 I am **currently learning NextJS**.
 - 🤗 **Pronouns**: *He/Him*.
 - 💬 You can contact me via [**X**](https://x.com/Dev_Huang1) platform or [**Telegram**](https://t.me/@Dev_Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
-- 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me), [**Outlook**](mailto:evan.huang000@outlook.com), [**Gmail**](mailto:huangshaoqi8888@gmail.com), [**Yandex Mail**](mailto:dev.huang@yandex.com).
+- 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me), [**Outlook**](mailto:evan.huang000@outlook.com), [**Gmail**](mailto:huangshaoqi8888@gmail.com).
 - ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
 
 <p align="left">
