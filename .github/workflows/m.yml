@@ -1,37 +1,28 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
-on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+name: Generate GitHub Metrics # 工作流名称
 
-          # Options
-          user: 111
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
+on: # 触发条件
+  schedule: # 定时运行
+    - cron: "0 0 * * *" # 每天 UTC 00:00 运行（JST 09:00）
+  workflow_dispatch: # 支持手动触发
+
+permissions: # 设置权限
+  contents: write # 允许工作流写入仓库内容
+
+jobs:
+  github-metrics: # 任务名称
+    runs-on: ubuntu-latest # 运行环境
+    steps:
+      - uses: actions/checkout@v3 # 检出仓库代码
+      - uses: lowlighter/metrics@latest # 使用 metrics Action
+        with:
+          token: ${{ secrets.METRICS_TOKEN }} # 使用自定义令牌
+          filename: metrics.svg # 输出文件名
+          base: header, activity, community, repositories # 基础统计模块
+          plugin_lines: yes # 显示代码行数插件
+      - name: Commit & Push # 提交生成的文件
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update GitHub metrics"
+          git push
