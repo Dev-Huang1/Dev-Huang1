@@ -53,7 +53,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 > [**Click here!**](https://bento.me/dev-huang)
 
 ### 🏷Information Card
-![Info](metrics.svg)
+![Info](achievements.svg)
 
 ![History](/profile-3d-contrib/profile-green.svg)
 
