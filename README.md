@@ -1,5 +1,7 @@
 <h2 align="center">Hi! I'm Evan😃</h2>
 
+![View](https://count.getloli.com/get/@Dev-Huang1.github.readme)
+
 ### 👋About me
 
 Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳. My name is **Evan**.
@@ -51,6 +53,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 > [**Click here!**](https://bento.me/dev-huang)
 
 ### 🏷Information Card
+![Info](metrics.svg)
 
 ![History](/profile-3d-contrib/profile-green.svg)
 
