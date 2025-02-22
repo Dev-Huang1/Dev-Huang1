@@ -16,8 +16,8 @@ jobs:
       - uses: lowlighter/metrics@latest # 使用 metrics Action
         with:
           token: ${{ secrets.METRICS_TOKEN }} # 使用自定义 PAT
-          filename: achievements.svg # 输出文件名
-          base: header # 只显示头部基础信息
+          filename: m.svg # 输出文件名
+          base: header, activity, community # 显示信息
           plugin_achievements: yes # 启用成就插件
           plugin_achievements_display: detailed # 详细显示模式
           plugin_achievements_threshold: B # 显示 B 级以上的成就
