@@ -52,7 +52,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 ### 🏷Information Card
 
-![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Huang1&hide_title=false&hide_border=true&layout=compact&theme=auto/)
+![History](/profile-3d-contrib/profile-green.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Huang1&show_icons=true&hide_title=false&hide_border=true&theme=auto/)
 
