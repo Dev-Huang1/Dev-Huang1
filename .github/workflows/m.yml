@@ -2,7 +2,7 @@ name: Generate Achievements # 工作流名称
 
 on: # 触发条件
   schedule: # 定时运行
-    - cron: "0 0 * * *" # 每天 UTC 00:00 运行（JST 09:00）
+    - cron: "0 18 * * *" 
   workflow_dispatch: # 支持手动触发
 
 permissions: # 设置权限
