@@ -38,12 +38,14 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 <p align="left">
 <a href="https://x.com/Dev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="30" width="40" alt="Dev_Huang1"></a>
 <a href="https://instagram.com/dev.huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="30" width="40" alt="dev.huang"></a>
-<a href="https://t.me/@Dev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Dev_Huang"></a>
-  <a href="https://discord.com/invite/xCeAQ3RS" target="blank"><img src="https://cdn.xyehr.cn/images/svg/discord.svg" height="30" width="40" alt="dev.huang"></a>
+<a href="https://www.youtube.com/@Dev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/YouTube_full-color_icon_%282024%29.svg" height="30" width="37" alt="YouTube"></a>
+<a href="https://threads.net/@dev.huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" height="30" width="40" alt="Threads"></a>
 </p>
 
 <p align="left">
-  <a href="https://threads.net/@dev.huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" height="30" width="40" alt="Threads"></a>
+  <a href="https://bsky.app/profile/e.xyehr.cn" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" width="37" alt="Bluesky"></a>
+<a href="https://t.me/@Dev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Dev_Huang"></a>
+  <a href="https://discord.com/invite/xCeAQ3RS" target="blank"><img src="https://cdn.xyehr.cn/images/svg/discord.svg" height="30" width="40" alt="dev.huang"></a>
   <a href="mailto:evan.huang000@proton.me" target="blank"><img src="https://cdn.xyehr.cn/images/svg/Proton-Mail.svg" height="30" width="40" alt="Proton Mail"></a>
 </p>
 
