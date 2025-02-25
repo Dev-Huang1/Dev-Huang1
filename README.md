@@ -8,7 +8,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - 🌱 I am **currently learning NextJS**.
 - 🤗 **Pronouns**: *He/Him*.
 - 💬 You can contact me via [**X**](https://x.com/Dev_Huang1) platform or [**Telegram**](https://t.me/@Dev_Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
-- 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me), [**Outlook**](mailto:evan.huang000@outlook.com), [**Gmail**](mailto:huangshaoqi8888@gmail.com).
+- 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
 - ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
 
 <p align="left">
@@ -43,10 +43,8 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 </p>
 
 <p align="left">
+  <a href="https://threads.net/@dev.huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" height="30" width="40" alt="Threads"></a>
   <a href="mailto:evan.huang000@proton.me" target="blank"><img src="https://cdn.xyehr.cn/images/svg/Proton-Mail.svg" height="30" width="40" alt="Proton Mail"></a>
-  <a href="mailto:evan.huang000@outlook.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="30" width="40" alt="Outlook"></a>
-  <a href="mailto:huangshaoqi8888@gmail.com" target="blank"><img src="https://cdn.xyehr.cn/images/svg/gmail.svg" height="30" width="40" alt="Gmail"></a>
-  <a href="mailto:dev.huang@yandex.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" height="30" width="40" alt="Yandex Mail"></a>
 </p>
 
 > 😃More social account link: 
