@@ -43,7 +43,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 </p>
 
 <p align="left">
-  <a href="https://bsky.app/profile/e.xyehr.cn" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" width="37" alt="Bluesky"></a>
+  <a href="https://bsky.app/profile/evh.us.kg" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" width="37" alt="Bluesky"></a>
 <a href="https://t.me/@Dev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" width="40" alt="Dev_Huang"></a>
   <a href="https://discord.com/invite/xCeAQ3RS" target="blank"><img src="https://cdn.xyehr.cn/images/svg/discord.svg" height="30" width="40" alt="dev.huang"></a>
   <a href="mailto:evan.huang000@proton.me" target="blank"><img src="https://cdn.xyehr.cn/images/svg/Proton-Mail.svg" height="30" width="40" alt="Proton Mail"></a>
