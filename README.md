@@ -59,7 +59,6 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Huang1&show_icons=true&hide_title=false&hide_border=true&theme=auto/)
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Huang1/)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Huang1/)
 
 <!--Thanks for watching😄-->
