@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm Evan😃</h2>
 
-![View](https://count.getloli.com/get/@Dev-Huang1.github.readme)
+![Views](https://count.getloli.com/get/@Dev-Huang1.github.readme)
 
 ### 👋About me
 
