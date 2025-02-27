@@ -29,9 +29,9 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 ### 🔧Skills - Language and tools
 
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,typescript,javascript,tailwindcss,react,nodejs,python,vscode)](https://skillicons.dev)
+![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,typescript,javascript,tailwindcss,react,nodejs,python,vscode)
 
-[![My Skills2](https://skills-icons.vercel.app/api/icons?i=pycharm,github,shadcnui,vercel,windows,notion,markdown,cloudflare)](https://skillicons.dev)
+![My Skills2](https://skills-icons.vercel.app/api/icons?i=pycharm,github,shadcnui,vercel,windows,notion,markdown,cloudflare)
 
 ### 📌Connect with me
 
