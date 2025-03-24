@@ -5,7 +5,7 @@
 ### 👋About me
 
 Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳. My name is **Evan**.
-- 🌱 I am **currently learning NextJS**.
+- 🌱 I am **currently learning TypeScript**.
 - 🤗 **Pronouns**: *He/Him*.
 - 💬 You can contact me via [**X**](https://x.com/Dev_Huang1) platform or [**Telegram**](https://t.me/@Dev_Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
 - 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
