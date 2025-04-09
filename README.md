@@ -10,7 +10,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - 💬 You can contact me via [**X**](https://x.com/Dev_Huang1) platform or [**Telegram**](https://t.me/@Dev_Huang), [**Discord**](https://discord.com/invite/xCeAQ3RS).
 - 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
 - ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
-- 🧩 **MERN**
+- 🧩 **Tech Stack**: MERN
 
 <p align="left">
 
@@ -37,7 +37,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 ### 📌Connect with me
 
 <p align="left">
-<a href="https://x.com/Dev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="30" width="40" alt="Dev_Huang1"></a>
+<a href="https://x.com/Dev_Huang" target="blank"><img src="https://skills-icons.vercel.app/api/icons?i=x" height="30" width="40" alt="Dev_Huang1"></a>
 <a href="https://instagram.com/dev.huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="30" width="40" alt="dev.huang"></a>
 <a href="https://www.youtube.com/@Dev_Huang" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/YouTube_full-color_icon_%282024%29.svg" height="30" width="37" alt="YouTube"></a>
 <a href="https://threads.net/@dev.huang" target="blank"><img src="https://skills-icons.vercel.app/api/icons?i=threads" height="30" width="40" alt="Threads"></a>
