@@ -33,7 +33,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 
 ### 🔧Skills - Language and tools
 
-![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,typescript,javascript,react,tailwindcss,nodejs,python,shadcnui)
+![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,python,shadcnui)
 
 ![My Skills2](https://skills-icons.vercel.app/api/icons?i=vscode,pycharm,github,vercel,windows,x,markdown,cloudflare)
 
