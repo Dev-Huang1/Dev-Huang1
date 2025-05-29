@@ -3,8 +3,6 @@
 <!--Keep Old Username-->
 ![Views](https://count.getloli.com/get/@Dev-Huang1.github.readme)
 
-[Portfolio](https://e.xyehr.cn)
-
 ### 👋About me
 
 Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳. My name is **Evan**.
@@ -12,6 +10,7 @@ Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳.
 - 🤗 **Pronouns**: *He/Him*.
 - 💬 You can find me on [**Threads**](https://threads.com/@evan.tech).
 - 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
+- 🖥️ **Portfolio**: [**Portfolio**](https://e.xyehr.cn)
 - ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
 - 🧩 **Tech Stack**: MERN
 
