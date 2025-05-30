@@ -5,7 +5,7 @@
 
 ### 👋About me
 
-Hey! I'm a **junior developer**, also a **student**.😃 from **China**🇨🇳. My name is **Evan**.
+Hey! I'm a **developer**. My name is **Evan**.
 - 🌱 I am **currently learning TypeScript**.
 - 🤗 **Pronouns**: *He/Him*.
 - 💬 You can find me on [**Threads**](https://threads.com/@evan.tech).
