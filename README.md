@@ -11,7 +11,7 @@ Hey! I'm a **developer**. My name is **Evan**.
 - 💬 You can find me on [**Threads**](https://threads.com/@evan.tech).
 - 📧 **Email**: [**Proton Mail**](mailto:evan.huang000@proton.me).
 - 🖥️ **Portfolio**: [**Portfolio**](https://e.xyehr.cn)
-- ⚡ **Hobbies**: *listening to music* 🎶 *, running*🏃🏻, *play games* 🎮 *and coding*😉.
+- ⚡ **Hobbies**: *play games* 🎮 *and coding*😉.
 - 🧩 **Tech Stack**: MERN
 
 <p align="left">
