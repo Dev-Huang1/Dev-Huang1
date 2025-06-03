@@ -60,6 +60,6 @@ Hey! I'm a **developer**. My name is **Evan**.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanTechDev&show_icons=true&hide_title=false&hide_border=true&theme=auto/)
 
-<!--![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EvanTechDev)-->
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EvanTechDev)
 
 <!--Thanks for watching😄-->
