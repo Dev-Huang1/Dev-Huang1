@@ -34,7 +34,7 @@ Hey! I'm a **developer**. My name is **Evan**.
 
 ![My Skills](https://skills-icons.vercel.app/api/icons?i=nextjs,react,typescript,javascript,tailwindcss,nodejs,python,shadcnui)
 
-![My Skills2](https://skills-icons.vercel.app/api/icons?i=vscode,pycharm,github,vercel,windows,x,markdown,cloudflare)
+![My Skills2](https://skills-icons.vercel.app/api/icons?i=postgresql,github,vercel,linux,ubuntu,debian,markdown,cloudflare)
 
 ### 📌Connect with me
 
